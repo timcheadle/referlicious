@@ -1,3 +1,5 @@
+**This is obsolete; Referly doesn't exist anymore. Use this for reference/learning only.**
+
 # Referlicious
 
 Get a [Refer.ly](http://refer.ly) link for the current page
